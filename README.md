@@ -35,6 +35,5 @@ Of the Stack Exchange forums, we have selected `ai, astronomy, beer, coffee, com
 
 The schema for the data can be found [here](https://meta.stackexchange.com/questions/2677/database-schema-documentation-for-the-public-data-dump-and-sede/2678#2678).
 
-Modifications: 
-- Omitted irrelevant files apart from `Comments.xml` and `Posts.xml` for Exercise 1;
+Modifications:
 - Extracted question bodies for Exercise 2.
