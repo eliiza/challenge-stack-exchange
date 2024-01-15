@@ -1,8 +1,8 @@
-# Eliiza Data Science Challenge
+# Mantel Group Data Science Challenge
 
-Thank you for taking time to do the Eliiza Data Science challenge. We're looking forward to hearing your thoughts and your approach to these common client asks we've recreated! 
+Thank you for taking time to do the Mantel Group Data Science challenge. We're looking forward to hearing your thoughts and your approach to these common client asks we've recreated! 
 
-The challenge contains two exercises. Because this is the tool we most commonly use across Eliiza, our preference is that you complete exercise 2 in Python. You are welcome to create a Jupyter notebook and use any Python packages. Please send your submission via email, including your code for exercise 2 and any materials for exercise 1.
+The challenge contains two exercises. Because this is the tool we most commonly use across Mantel Group Data and Analytics, our preference is that you complete exercise 2 in Python. You are welcome to create a Jupyter notebook and use any Python packages. Please send your submission via email, including your code for exercise 2 and any materials for exercise 1.
 
 The purpose of this challenge is to allow us to kick off the conversation to dive a little deeper into your consulting and technical experience. This is a chance for you to demonstrate how you might approach business problems but we don't expect you to perform every possible variation and approach! Don't stress if you're tight on time - we get it, you have a life outside of applying for jobs - we're not expecting you to spend endless hours perfecting it (or infinite hyperparameter tuning! ;) ), just make sure you do enough to show us just how awesome you are in data science. In exercise 1 we're looking to explore how you would approach solving business problems in a client setting, while exercise 2 focuses on some of the core data science skills.
 
@@ -10,9 +10,9 @@ The purpose of this challenge is to allow us to kick off the conversation to div
 
 ### Exercise #1
 
-Eliiza are approached by an artisan brewer who is considering adding a new hoppy beer to their range - India pale ale (IPA). The client's marketing team would like to know how consumers feel about this product and how the attitude toward IPA beer has changed over the past few years. They believe a question-answering website such as [beer.stackexchange.com](https://beer.stackexchange.com/) could be used as a source of genuine opinions.
+Mantel Group are approached by an artisan brewer who is considering adding a new hoppy beer to their range - India pale ale (IPA). The client's marketing team would like to know how consumers feel about this product and how the attitude toward IPA beer has changed over the past few years. They believe a question-answering website such as [beer.stackexchange.com](https://beer.stackexchange.com/) could be used as a source of genuine opinions.
 
-Given this information, you are asked to prepare for the initial meeting with the prospective client where you will represent Eliiza as a domain expert and help with sourcing information to shape the engagement. 
+Given this information, you are asked to prepare for the initial meeting with the prospective client where you will represent Mantel Group as a domain expert and help with sourcing information to shape the engagement. 
 It may help to think about:
 - what approach could be recommended
 - what further information do we need
